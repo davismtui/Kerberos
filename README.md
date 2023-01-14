@@ -1,7 +1,7 @@
 # Kerberos Simulator.
 Kerberos Authentication Protocol Simulator in Python.
 
-![alt text](https://imgur.com/a/1VcdGkx)
+![alt text](https://github.com/davismtui/Kerberos/blob/main/image_b.png?raw=true)
 
 ## Build
 
