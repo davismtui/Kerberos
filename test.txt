@@ -1,0 +1,9 @@
+this is a test file
+the file server will return this to the client
+after successfully authenticating using kerberos
+
+
+
+test
+test
+test123
